@@ -173,6 +173,10 @@
     <kafka.version>2.3.0</kafka.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <sonar.projectKey>alu0100991659_ProyectoMOA</sonar.projectKey>
+    <sonar.organization>alu0100991659</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>282d0abd1192c4be1532da30b17f4637db50d79e</sonar.login>
   </properties>
 
   <modules>
